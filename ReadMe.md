@@ -1,6 +1,6 @@
 # FUNDAMENTALS OF DATA ANALYSIS
 
-## Project: tips Dataset
+# Project: Tips Dataset
 
 For more information please visit the Githib repository: 
 https://github.com/JuliaMal/Fundamentals_project
