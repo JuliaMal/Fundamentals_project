@@ -26,8 +26,3 @@ The Github repository contains the following files:
         4. Make sure that you're in the same directory as the saved in the repository, you have downloaded in step #1 (Type cd Path_to_the_folder, e.g. cd C:\User\GMIT\Project_1)
         5. Type jupyter notebook or jupyter lab to launch the Jupyter Notebook App.
         6. The notebook interface will appear in a new browser window or tab.
-        
- 
- References:
- https://towardsdatascience.com/ways-to-detect-and-remove-the-outliers-404d16608dba
- openSAP course (add name and link)
