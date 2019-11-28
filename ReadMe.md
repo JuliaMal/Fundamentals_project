@@ -1,6 +1,6 @@
 # FUNDAMENTALS OF DATA ANALYSIS
 
-# <font color='purple'>**Project: Tips Dataset**</font>
+# **Project: Tips Dataset**
 
 For more information please visit the Githib repository: 
 https://github.com/JuliaMal/Fundamentals_project
