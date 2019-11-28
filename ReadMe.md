@@ -1,14 +1,14 @@
 # FUNDAMENTALS OF DATA ANALYSIS
 
-# Project: Tips Dataset
+# <font color='purple'>**Project: Tips Dataset**</font>
 
 For more information please visit the Githib repository: 
 https://github.com/JuliaMal/Fundamentals_project
 
 The Github repository contains the following files:
-   1. Tips.ipynb - This is a Jupyter notebook, that contains the main body of work, explanations, notes. references. etc.
+   1. Tips.ipynb - This is a Jupyter notebook that contains the main body of work, explanations, notes. references. etc.
    2. tips.csv - This is the initial dataset used for analysis. Source of the dataset: https://github.com/mwaskom/seaborn-data/blob/master/tips.csv
-   3. ReadMe.md - This is a Mardown file, containing explanation what is saved in the Github repository and instructions how to run Jupyter notebook
+   3. ReadMe.md - This is a Markdown file, containing explanation what is saved in the Github repository and instructions how to run Jupyter notebook.
    4. .gitignore - This file tells git which files (or patterns) should be ignored. In our case it's Python.
    5. LICENSE - This is an open source license. As this repository is mainated as PUBLIC, a license needs to be in place, so that others are free to use, change and distribute it.
 
